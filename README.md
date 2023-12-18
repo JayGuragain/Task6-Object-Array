@@ -1,6 +1,9 @@
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Live Preview
+
+Experience our project in action! Check out the [Live Preview](https://resilient-bienenstitch-50947a.netlify.app/).
 
 Currently, two official plugins are available:
 
