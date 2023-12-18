@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Mathematics",
+    "instructor": "Dr. Smith"
+  },
+  {
+    "id": 2,
+    "name": "History",
+    "instructor": "Prof. Johnson"
+  },
+  {
+    "id": 3,
+    "name": "Biology",
+    "instructor": "Dr. Adams"
+  },
+  {
+    "id": 4,
+    "name": "Chemistry",
+    "instructor": "Dr. Clark"
+  },
+  {
+    "id": 5,
+    "name": "Physics",
+    "instructor": "Prof. Allen"
+  },
+  {
+    "id": 6,
+    "name": "Literature",
+    "instructor": "Dr. Barnes"
+  },
+  {
+    "id": 7,
+    "name": "Computer Science",
+    "instructor": "Prof. Davis"
+  },
+  {
+    "id": 8,
+    "name": "Economics",
+    "instructor": "Dr. Evans"
+  },
+  {
+    "id": 9,
+    "name": "Psychology",
+    "instructor": "Prof. Foster"
+  },
+  {
+    "id": 10,
+    "name": "Philosophy",
+    "instructor": "Dr. Garcia"
+  },
+  {
+    "id": 11,
+    "name": "Political Science",
+    "instructor": "Prof. Hill"
+  },
+  {
+    "id": 12,
+    "name": "Sociology",
+    "instructor": "Dr. Irving"
+  }
+]

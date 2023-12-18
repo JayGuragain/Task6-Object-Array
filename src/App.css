@@ -1,0 +1,30 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.StudentList {
+  background-color: orange;
+  border-radius: 8px;
+  color: rgb(59, 92, 243);
+}
+
+.CourseList {
+  background-color: rgb(59, 92, 243);
+  border-radius: 8px;
+  color: orange;
+}
+
+.container1 {
+  background-color: antiquewhite;
+  border-radius: 8px;
+  padding-bottom: 2px;
+}
+
+.container2 {
+  background-color: rgb(215, 250, 243);
+  border-radius: 8px;
+  padding-bottom: 2px;
+}
